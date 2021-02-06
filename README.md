@@ -1,4 +1,4 @@
-1.feladat 
+training360-szoftverarchitekturak
 
 ![1.kép](Képernyőfelvétel (3).png)
 ![2. kép](Képernyőfelvétel (7).png)
