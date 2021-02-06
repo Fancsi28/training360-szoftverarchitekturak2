@@ -1,5 +1,5 @@
 1.feladat 
 
-![](Képernyőfelvétel (3).png)
-![](Képernyőfelvétel (7).png)
-![](Képernyőfelvétel (8).png)
+![1.kép](Képernyőfelvétel (3).png)
+![2. kép](Képernyőfelvétel (7).png)
+![3. kép](Képernyőfelvétel (8).png)
